@@ -1,0 +1,20 @@
+# environment
+.env
+
+# python
+__pycache__/
+
+# airflow
+airflow.db
+data-warehouse.sqlite
+logs/*
+
+# data
+db_internal/data/*
+.idea/
+venv/
+.vscode/
+logs/
+storage/.minio.sys
+.connections.yaml
+tests/*.db
