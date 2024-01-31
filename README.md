@@ -84,8 +84,8 @@ SENHA: minio@2020
 #### Access Key e Secret key ( default )
 
 ```
-ACCESS_KEY: blob-storage-acces-key
-SECRET_KEY: blob-storage-secret-key
+ACCESS_KEY: data_eng-acces-key
+SECRET_KEY: abc14fd97adb4e6f8d49b86c1e77b5fc
 ```
 
 #### Observação:
